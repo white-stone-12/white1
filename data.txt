@@ -1,0 +1,58 @@
+Hound - Information Gathering Report
+------------------------------------
+
+Device Information
+----------------------------
+User Agent: Mozilla/5.0 (Android 14; Mobile; rv:138.0) Gecko/138.0 Firefox/138.0 
+Platform: Linux armv81 
+Cookies Enabled: true
+Browser Language: en-IN
+Browser Name: Netscape
+Browser CodeName: Mozilla
+RAM: undefined
+CPU Cores: 8
+Screen Width: 360
+Screen Height: 805
+Local Time: 3:12:21 pm
+RefUrl: 
+OS CPU: Linux armv81
+-------------------------
+
+Target IP Detail
+----------------
+IP: 157.51.198.238
+---------------
+
+GPS Lat Long Information
+-----------------------
+Latitude: 11.4059307
+Longitude: 79.0093882
+Map Location:  https://www.google.com/maps/place/11.4059307,79.0093882
+Google Earth:  https://earth.google.com/web/search/11.4059307,79.0093882
+------------------
+Hound - Information Gathering Report
+------------------------------------
+
+Device Information
+----------------------------
+User Agent: Mozilla/5.0 (Android 14; Mobile; rv:138.0) Gecko/138.0 Firefox/138.0 
+Platform: Linux armv81 
+Cookies Enabled: true
+Browser Language: en-IN
+Browser Name: Netscape
+Browser CodeName: Mozilla
+RAM: undefined
+CPU Cores: 8
+Screen Width: 360
+Screen Height: 805
+Local Time: 3:12:58 pm
+RefUrl: 
+OS CPU: Linux armv81
+-------------------------
+
+Target IP Detail
+----------------
+IP: 157.51.198.238
+---------------
+
+Locatin Unavailable.
